@@ -1,6 +1,6 @@
 ### Serenido
 
-Small, reliable data tools. Each one retries blocked requests by itself, so runs finish, and you pay per result. They run on [Apify](https://apify.com/teegemspod) and work from Python, JavaScript, plain HTTP or AI agents (MCP).
+Small, reliable data tools. Each one retries blocked requests by itself, so runs finish, and you pay per result. They run on [Apify](https://apify.com/serenido) and work from Python, JavaScript, plain HTTP or AI agents (MCP).
 
 **China social media**
 
