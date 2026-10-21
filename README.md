@@ -6,6 +6,7 @@ Small, reliable data tools. Each one retries blocked requests by itself, so runs
 
 - [Weibo Scraper](https://github.com/serenido/weibo-scraper): posts, hot searches, comments and creators. No login.
 - [Bilibili Scraper](https://github.com/serenido/bilibili-scraper): videos, comments, danmaku and creators. No login.
+- [Weibo Hot Search Scraper](https://github.com/serenido/weibo-hot-search): the live 微博热搜 list, changes since your last run, top posts per topic.
 
 **E-commerce**
 
@@ -16,3 +17,7 @@ Small, reliable data tools. Each one retries blocked requests by itself, so runs
 **Search trends**
 
 - [Google Trends Scraper](https://github.com/serenido/google-trends-scraper): interest over time, rising queries, regions and Trending Now.
+
+**Sports data**
+
+- [Football xG Scraper](https://github.com/serenido/football-xg-scraper): Understat xG tables, matches, shots, players and lineups.
