@@ -8,6 +8,7 @@ Small, reliable data tools. Each one retries blocked requests by itself, so runs
 - [Bilibili Scraper](https://github.com/serenido/bilibili-scraper): videos, comments, danmaku and creators. No login.
 - [Weibo Hot Search Scraper](https://github.com/serenido/weibo-hot-search): the live 微博热搜 list, changes since your last run, top posts per topic.
 - [WeChat Official Account Scraper](https://github.com/serenido/wechat-official-account-scraper): 公众号 articles by keyword or link, with full text, account, author and date.
+- [RedNote Trending Scraper](https://github.com/serenido/rednote-trending-scraper): 小红书 trending notes with full text, images, video, likes, saves and comments.
 
 **E-commerce**
 
